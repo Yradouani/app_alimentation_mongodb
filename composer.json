@@ -1,0 +1,14 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "mongodb/mongodb": "1.10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MonProjet\\": "C:/MAMP/htdocs/app_alimentation/Comportement_alimentaire"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
